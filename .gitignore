@@ -1,0 +1,26 @@
+# Rojo build output
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+
+# Rojo sourcemap
+sourcemap.json
+
+# Wally packages
+Packages/
+ServerPackages/
+DevPackages/
+wally.lock
+
+# Rokit / Aftman tool installs
+.rokit/
+.aftman/
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
